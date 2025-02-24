@@ -88,10 +88,10 @@ WSGI_APPLICATION = 'app.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'backendsign',
-        'USER':'neondb_owner',
-        'PASSWORD':'j5ULAu3VtmhM',
-        'HOST':'ep-bold-cherry-a5g3mc6e.us-east-2.aws.neon.tech',
+        'NAME': 'noor_and_nuha',
+        'USER':'noor_and_nuha_owner',
+        'PASSWORD':'npg_cYXlBb2GH8WV',
+        'HOST':'ep-hidden-dream-a8dsbxdn-pooler.eastus2.azure.neon.tech',
         'PORT':'5432',
         'OPTIONS': {
             'sslmode': 'require',
